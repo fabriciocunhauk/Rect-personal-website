@@ -1,0 +1,46 @@
+.header-color {
+    background: #8A2387; 
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+
+}
+
+.banner-text {
+    margin: 300px auto;
+    background-color: black;
+    opacity: .8;
+    width: 75%;
+    border-radius: 10px;
+}
+
+.banner-text h1 {
+    text-align: center;
+    font-size: 66px;
+    font-weight: bold;
+    color: white;
+}
+
+.banner-text hr {
+    border-top: 5px dotted white;
+    width: 50%;
+    margin: auto;
+}
+
+.banner-text p {
+    color: white;
+    font-size: 20px;
+    padding: 1em;
+    text-align: center;
+}
+.social-links {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+
+.social-links i {
+    color: white;
+    font-size: 3em;
+    padding: 10px;
+}
