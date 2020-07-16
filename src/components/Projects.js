@@ -1,10 +1,21 @@
 import React from 'react';
+import Card from './Card';
+import myUrls from '../myUrls'
 
+function createCard(myUrls) {
+    return (
+        <Card
+            imgURL={myUrls.imgURL}
+            name={myUrls.name}
+            link={myUrls.link}
+        />
+    )
+}
 
 function Projects() {
     return (
         <div>
-            <h1>Project</h1>
+            {myUrls.map(createCard)}
         </div>
     )
 }

@@ -7,14 +7,14 @@ function LandingPage() {
     return (
         <div>
 
-            <img src="" alt="" />
+            <img className="profile-pic" src="https://avatars3.githubusercontent.com/u/60474481?s=460&u=438df96f772629d3bf126962a557801874f0f9a8&v=4" alt="my-image" />
 
             <div className="banner-text">
                 <h1>Im a Full stack Developer</h1>
 
                 <hr />
 
-                <p>HTML/CSS | Bootstrap | JavaScript | Node.js | React | Express | MongoDb/Mongoose </p>
+                <p>HTML5 | CSS3 | Bootstrap | JavaScript | Node.js | React | React Native | API | Express | SQL | NoSQL | MongoDb/Mongoose </p>
 
                 <div className="social-links">
                     <a href="https://www.linkedin.com/in/fabricio-cunha-7b7392162/" rel="noopener noreferrer" target="_blank">
