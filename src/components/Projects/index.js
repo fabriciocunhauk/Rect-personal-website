@@ -1,6 +1,6 @@
 import React from 'react';
-import Card from './Card';
-import myUrls from '../myUrls'
+import Card from '../Card/index';
+import myUrls from '../../myUrls'
 
 function createCard(myUrls) {
     return (
