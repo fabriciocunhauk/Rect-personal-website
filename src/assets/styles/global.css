@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body, #root {
+    height: 100vh;
+}
+
+body {
+    background: var(--color-background);
+}
+
+.header-color {
+    background: #8A2387; 
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+}

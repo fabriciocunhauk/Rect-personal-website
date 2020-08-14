@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../Card/index';
+import Card from '../../components/Card/index';
 import myUrls from '../../myUrls'
 
 function createCard(myUrls) {

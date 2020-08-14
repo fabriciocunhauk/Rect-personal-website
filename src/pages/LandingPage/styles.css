@@ -1,9 +1,3 @@
-.header-color {
-    background: #8A2387; 
-    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);
-    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
-}
-
 .profile-pic {
     display: block;
     margin-left: auto;
@@ -14,16 +8,21 @@
     border-radius: 50%;
 }
 
+.banner-main {
+    margin-top: 300px;
+}
+
 .banner-text {
     margin: 0px auto;
     background-color: black;
     opacity: .8;
     width: 75%;
+    height: 300px;
     border-radius: 10px;
 }
 
 .banner-text h1 {
-    margin-bottom: 0em;
+    margin-bottom: 40px;
     text-align: center;
     font-size: 55px;
     font-weight: bold;
@@ -53,5 +52,5 @@
 .social-links i {
     color: white;
     font-size: 3em;
-    padding: 10%;
+    padding: 50%;
 }
