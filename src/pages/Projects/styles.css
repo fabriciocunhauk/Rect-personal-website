@@ -1,0 +1,21 @@
+.cards-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+@media (max-width: 1483px) {
+    .cards-display {
+        grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media (max-width: 822px) {
+    .cards-display {
+        grid-template-columns: 1fr;
+    }
+  }

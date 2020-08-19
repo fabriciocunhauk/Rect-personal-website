@@ -1,6 +1,7 @@
 import React from 'react';
 import Card from '../../components/Card/index';
 import myUrls from '../../myUrls'
+import './styles.css';
 
 function createCard(myUrls) {
     return (
@@ -14,7 +15,7 @@ function createCard(myUrls) {
 
 function Projects() {
     return (
-        <div>
+        <div className="cards-display">
             {myUrls.map(createCard)}
         </div>
     )
