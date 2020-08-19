@@ -9,9 +9,16 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+@media (max-width: 1366px) {
+  .profile-pic {
     height: 250px;
     width: 250px;
-    border-radius: 50%;
+  }
 }
 
 .banner-box {
