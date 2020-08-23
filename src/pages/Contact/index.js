@@ -1,10 +1,18 @@
 import React from 'react';
+import { Grid, Cell } from 'react-mdl';
 
 
 function Contact() {
     return (
         <div>
-            <h1>Contact</h1>
+            <Grid>
+                <Cell col={6}>
+                    <h1>Half</h1>
+                </Cell>
+                <Cell col={6}>
+                    <h1>Half</h1>
+                </Cell>
+            </Grid>
         </div>
     )
 }
