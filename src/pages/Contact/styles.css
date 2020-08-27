@@ -1,0 +1,43 @@
+.contact-details h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.contact-details hr {
+    border-top: 5px dotted white;
+    width: 50%;
+    margin: auto;
+}
+
+.contact-info {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-details {
+    width: 1000px;
+    height: 800px;
+    opacity: 0.8;
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+}
+
+.list {
+    margin-top: 70px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+    padding-left: 8%;
+    padding-right: 11%;
+ }
+ 
+ .social-links i {
+     color: white;
+     font-size: 3em;
+     padding: 50%;
+ }

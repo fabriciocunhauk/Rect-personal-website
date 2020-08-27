@@ -10,7 +10,7 @@ const projectUrls = [
         id: 2,
         name: "Be-the-hero",
         imgURL:
-            "https://github.com/christyanbrayan/be-the-hero/raw/master/imgs/print1.png",
+            "https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.png",
         link: "https://github.com/fabriciocunhauk/be-the-hero"
     },
     {

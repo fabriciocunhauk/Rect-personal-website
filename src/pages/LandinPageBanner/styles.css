@@ -70,16 +70,3 @@
     padding: 1em;
     text-align: center;
 }
-.social-links {
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   padding-left: 8%;
-   padding-right: 11%;
-}
-
-.social-links i {
-    color: white;
-    font-size: 3em;
-    padding: 50%;
-}

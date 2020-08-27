@@ -1,6 +1,6 @@
 import React from 'react';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
-import Main from '../Main/index';
+import Routes from '../../routes';
 import { Link } from 'react-router-dom';
 
 function NavBar() {
@@ -26,7 +26,7 @@ function NavBar() {
                     </Navigation>
                 </Drawer>
                 <Content>
-                    <Main />
+                    <Routes />
                 </Content>
             </Layout>
         </div>

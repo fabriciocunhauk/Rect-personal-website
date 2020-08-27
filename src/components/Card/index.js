@@ -5,7 +5,7 @@ function Cards({ imgURL, link, name }) {
     return (
         <>
             <Card shadow={0} style={{ width: '370px', height: '320px', margin: 'auto', marginTop: "20px" }}>
-                <CardTitle expand style={{ color: '#fff', background: `url(${imgURL}) center / cover`, backgroundRepeat: "no-repeat" }}></CardTitle>
+                <CardTitle expand style={{ color: '#fff', background: `url(${imgURL}) center / contain`, backgroundRepeat: "no-repeat" }}></CardTitle>
                 <CardText>
                     {name}
                 </CardText>

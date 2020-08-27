@@ -1,12 +1,12 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import LandingPageBanner from '../../pages/LandinPageBanner/index';
-import AboutMe from '../../pages/AboutMe/index';
-import Contact from '../../pages/Contact/index';
-import Projects from '../../pages/Projects/index';
-import Resume from '../../pages/Resume/index';
+import LandingPageBanner from './pages/LandinPageBanner/index';
+import AboutMe from './pages/AboutMe/index';
+import Contact from './pages/Contact/index';
+import Projects from './pages/Projects/index';
+import Resume from './pages/Resume/index';
 
-const Main = () => (
+const Routes = () => (
     <Switch>
         <Route exact path="/" component={LandingPageBanner} />
         <Route path="/aboutme" component={AboutMe} />
@@ -16,4 +16,4 @@ const Main = () => (
     </Switch>
 )
 
-export default Main;
+export default Routes;
