@@ -12,7 +12,6 @@ function NavBar() {
                         <Link to="/Rect-personal-website">Home</Link>
                         <Link to="/projects">Projects</Link>
                         <Link to="/contact">Contact</Link>
-                        <Link to="/aboutme">About me</Link>
                     </Navigation>
                 </Header>
                 <Drawer title="Title">
@@ -20,7 +19,6 @@ function NavBar() {
                         <Link to="/Rect-personal-website">Home</Link>
                         <Link to="/projects">Projects</Link>
                         <Link to="/contact">Contact</Link>
-                        <Link to="/aboutme">About me</Link>
                     </Navigation>
                 </Drawer>
                 <Content>
