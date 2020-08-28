@@ -17,6 +17,7 @@
 }
 
 .contact-details {
+    border-radius: 2%;
     width: 1000px;
     height: 800px;
     opacity: 0.8;

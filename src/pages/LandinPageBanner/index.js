@@ -14,7 +14,7 @@ function LandingPageBanner() {
 
                 <hr />
 
-                <p>HTML5 | CSS3 | JavaScript | Node.js | React.Js | React Native | Bootstrap | APIs | REST APIs | Express | SQL | NoSQL | MongoDb/Mongoose </p>
+                <p>JavaScript | HTML | CSS | SaSS | Node.js | React.Js | React Native | Bootstrap | APIs | REST APIs | Express | SQL | NoSQL | MongoDb/Mongoose </p>
             </div>
         </div>
 
