@@ -9,7 +9,7 @@ function NavBar() {
             <Layout style={{ background: 'url(https://images.techhive.com/images/article/2017/02/16258492451_3a097a932a_k-100707389-large.jpg) center / cover' }}>
                 <Header className="header-color" title={<span><strong>My Portifolio</strong></span>}>
                     <Navigation>
-                        <Link to="/">Home</Link>
+                        <Link to="/Rect-personal-website">Home</Link>
                         <Link to="/projects">Projects</Link>
                         <Link to="/contact">Contact</Link>
                         <Link to="/resume">Resume</Link>
@@ -18,7 +18,7 @@ function NavBar() {
                 </Header>
                 <Drawer title="Title">
                     <Navigation>
-                        <Link to="/">Home</Link>
+                        <Link to="/Rect-personal-website">Home</Link>
                         <Link to="/projects">Projects</Link>
                         <Link to="/contact">Contact</Link>
                         <Link to="/resume">Resume</Link>
