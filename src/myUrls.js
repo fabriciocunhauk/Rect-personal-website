@@ -38,7 +38,7 @@ const projectUrls = [
         id: 6,
         name: "Interflix",
         imgURL:
-            "https://camo.githubusercontent.com/0129fb24c838bd620e961e847f9c88cceff828d1/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344432324151487946566a675777357972512f6665656473686172652d736872696e6b5f3830302f303f653d3135393930393132303026763d6265746126743d326b3955364271327a51533068554d3737433478754a6d59664c3345636d4b727158394e51794c6d74394d",
+            "https://media-exp1.licdn.com/dms/image/C4D22AQHyFVjgWw5yrQ/feedshare-shrink_800-alternative/0?e=1602115200&v=beta&t=gbP0sYL4LdYS81kWW49hCGwUUWcdoVzCw5gnDLdlJB8",
         link: "https://github.com/fabriciocunhauk/React.js-interflix"
     },
     {
