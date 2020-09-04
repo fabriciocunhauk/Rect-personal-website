@@ -1,10 +1,12 @@
 import React from 'react';
 import { Card, CardTitle, CardActions, CardText, Button } from 'react-mdl';
 
+import './styles.css';
+
 function Cards({ imgURL, link, name }) {
     return (
         <>
-            <Card shadow={0} style={{ width: '370px', height: '320px', margin: 'auto', marginTop: "20px" }}>
+            <Card shadow={0} id="card-style">
                 <CardTitle expand style={{ color: '#fff', background: `url(${imgURL}) center / contain`, backgroundRepeat: "no-repeat" }}></CardTitle>
                 <CardText>
                     {name}
