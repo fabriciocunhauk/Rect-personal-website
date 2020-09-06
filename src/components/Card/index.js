@@ -12,7 +12,7 @@ function Cards({ imgURL, link, name }) {
                     {name}
                 </CardText>
                 <CardActions border>
-                    <Button colored href={link} target="_blank">GitHub</Button>
+                    <Button colored href={link} target="_blank">Website</Button>
                 </CardActions>
             </Card>
         </>
