@@ -18,8 +18,8 @@
 
 .contact-details {
     border-radius: 2%;
-    width: 1000px;
-    height: 800px;
+    width: 900px;
+    height: 700px;
     opacity: 0.8;
     background: linear-gradient(to right, #F27121, #E94057, #8A2387);
 }
@@ -32,9 +32,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 70px;
     padding-left: 8%;
     padding-right: 11%;
+ }
+
+ .social-links .icon-increase:hover {
+     transform: translate3d(0, -2px, 0) scale(1.03);     
  }
  
  .social-links i {
