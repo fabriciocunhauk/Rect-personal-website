@@ -3,6 +3,12 @@
     height: 320px; 
     margin: auto; 
     margin-Top: 20px; 
+    box-shadow: 15px 10px 20px black;
+    transition: all .4s ease;
+}
+
+#card-style:hover {
+    transform: translate3D(0, -2px, 0) scale(1.03);
 }
 
 @media (max-width: 380px) {
