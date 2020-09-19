@@ -6,7 +6,29 @@
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 50px;
+    position: relative;
 }
+
+.cards-display:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    border-radius: 8px;
+    left: 0;
+    top: 0;
+    width: 1650px;
+    height: 105%;
+    z-index: -1;
+    opacity: 0.8;
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+  }
 
 @media (max-width: 1483px) {
     .cards-display {
