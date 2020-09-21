@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60139d8a7d0a828930dbf4faef0c4e6c",
+    "revision": "cf71f9e11793f73508d9ef82e6cd4353",
     "url": "/Rect-personal-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rect-personal-website/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "2ef6135e8e43ed573cb0",
-    "url": "/Rect-personal-website/static/css/main.ed819c5e.chunk.css"
+    "revision": "5f10a30d821bc73b69b5",
+    "url": "/Rect-personal-website/static/css/main.1827fac5.chunk.css"
   },
   {
     "revision": "da3ca36a8cb2b48ba665",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rect-personal-website/static/js/2.b70a3ceb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ef6135e8e43ed573cb0",
-    "url": "/Rect-personal-website/static/js/main.57c02922.chunk.js"
+    "revision": "5f10a30d821bc73b69b5",
+    "url": "/Rect-personal-website/static/js/main.75cdf0b0.chunk.js"
   },
   {
     "revision": "766fc4652b2e4aefbebd",
