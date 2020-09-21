@@ -9,7 +9,7 @@ function NavBar() {
     return (
         <div >
             <Layout className="main-layout">
-                <Header className="header-color" title={<span><strong>My Portifolio</strong></span>}>
+                <Header className="header-color" title={<span><strong>Fabricio Cunha</strong></span>}>
                     <Navigation>
                         <Link to="/Rect-personal-website">Home</Link>
                         <Link to="/projects">Projects</Link>

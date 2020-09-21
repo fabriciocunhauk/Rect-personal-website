@@ -70,9 +70,14 @@
 
   @media (max-width: 768px) {
     .landing-page {
-        margin-top: 10px;
+        margin-top: 60px;
         max-width: 380px;
         height: 802px;
+    }
+
+    .landing-page:before {
+      padding-bottom: 20px;
+      margin-bottom: 10px;
     }
   }
 
