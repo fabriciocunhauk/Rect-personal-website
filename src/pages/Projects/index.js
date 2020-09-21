@@ -15,7 +15,7 @@ function createCard(myUrls) {
 
 function Projects() {
     return (
-        <div className="cards-display">
+        <div className="cards-bg">
             {myUrls.map(createCard)}
         </div>
     )

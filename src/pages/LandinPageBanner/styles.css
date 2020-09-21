@@ -10,7 +10,7 @@
   margin-right: auto;
   margin-top: 20px;
   padding-top: 5px;
-  width: 1500px;
+  width: 80%;
   height: 700px;
 }
 
@@ -45,13 +45,6 @@
     border-radius: 50%;
 }
 
-@media (max-width: 1366px) {
-  .profile-pic {
-    height: 250px;
-    width: 250px;
-  }
-}
-
 .banner-box {
     margin: 50px auto;
     background-color: black;
@@ -61,27 +54,27 @@
     border-radius: 1rem;
 }
 
-@media (max-width: 768px) {
-    .landing-page {
-        margin-top: 10px;
-        max-width: 380px;
-        height: 802px;
-    }
-  }
+
 
 @media (max-width: 1024px) {
+    .profile-pic {
+      height: 250px;
+      width: 250px;
+    }
+
     .landing-page {
       margin-top: 10px;
       width: 800px;
     }
   }
 
-  @media (min-width: 1416px) {
+  @media (max-width: 768px) {
     .landing-page {
-      margin-top: 50px;
-      width: 1200px;
+        margin-top: 10px;
+        max-width: 380px;
+        height: 802px;
     }
-  }  
+  }
 
 .banner-box h1 {
     text-align: center;
