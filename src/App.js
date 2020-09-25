@@ -1,12 +1,12 @@
 import React from 'react';
 import '../src/assets/styles/global.css';
-import NavBar from './components/NavBar/index';
+import MainLayout from './MainLayout/index';
 
 
 function App() {
     return (
         <div>
-            <NavBar />
+            <MainLayout />
         </div>
     )
 }

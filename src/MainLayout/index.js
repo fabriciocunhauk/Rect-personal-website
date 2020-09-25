@@ -1,11 +1,11 @@
 import React from 'react';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
-import Routes from '../../routes';
+import Routes from '../routes';
 import { Link } from 'react-router-dom';
 
 import './styles.css';
 
-function NavBar() {
+function MainLayout() {
     return (
         <div >
             <Layout className="main-layout">
@@ -31,4 +31,4 @@ function NavBar() {
     )
 }
 
-export default NavBar;
+export default MainLayout;
