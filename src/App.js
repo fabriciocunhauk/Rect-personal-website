@@ -1,12 +1,12 @@
 import React from 'react';
 import '../src/assets/styles/global.css';
-import MainLayout from './pages/Main';
+import Routes from './routes';
 
 
 function App() {
     return (
         <div>
-            <MainLayout />
+            <Routes />
         </div>
     )
 }

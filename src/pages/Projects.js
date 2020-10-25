@@ -3,6 +3,7 @@ import { Card, CardTitle, CardActions, CardText, Button } from 'react-mdl';
 import myUrls from '../myUrls'
 import '../assets/styles/pages/projects.css';
 import BgWraperContainer from '../components/BgWraperContainer';
+import NavBar from '../components/NavBar';
 
 function createCard(myUrls) {
     return (
@@ -22,14 +23,15 @@ function createCard(myUrls) {
 
 function Projects() {
     return (
-        <div className="main-container">
-            <BgWraperContainer>
-                <div className="card">
-                    {myUrls.map(createCard)}
-                </div>
-            </BgWraperContainer>
-        </div>
-
+        <NavBar>
+            <div className="main-container">
+                <BgWraperContainer>
+                    <div className="card">
+                        {myUrls.map(createCard)}
+                    </div>
+                </BgWraperContainer>
+            </div>
+        </NavBar>
     )
 }
 
