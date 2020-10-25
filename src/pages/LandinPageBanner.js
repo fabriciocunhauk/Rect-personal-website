@@ -1,7 +1,7 @@
 import React from 'react';
-import '../../App'
+import '../App'
 
-import './styles.css'
+import '../assets/styles/pages/landin-page-banner.css';
 
 function LandingPageBanner() {
     return (

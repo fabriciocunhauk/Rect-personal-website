@@ -1,8 +1,8 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import LandingPageBanner from './pages/LandinPageBanner/index';
-import Contact from './pages/Contact/index';
-import Projects from './pages/Projects/index';
+import LandingPageBanner from './pages/LandinPageBanner';
+import Contact from './pages/Contact';
+import Projects from './pages/Projects';
 
 const Routes = () => (
     <Switch>

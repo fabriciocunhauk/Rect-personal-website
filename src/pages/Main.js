@@ -3,7 +3,7 @@ import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import Routes from '../routes';
 import { Link } from 'react-router-dom';
 
-import './styles.css';
+import '../assets/styles/pages/main.css';
 
 function MainLayout() {
     return (

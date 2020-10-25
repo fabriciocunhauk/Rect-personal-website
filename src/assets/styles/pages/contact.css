@@ -1,27 +1,20 @@
-.contact-details h1 {
+.content-info h1 {
     display: flex;
     justify-content: center;
     color: white;
 }
 
-.contact-details hr {
+.content-info hr {
     border-top: 5px dotted white;
-    width: 50%;
+    width: 80%;
     margin: auto;
 }
+
 
 .contact-info {
     margin-top: 20px;
     display: flex;
     justify-content: center;
-}
-
-.contact-details {
-    border-radius: 8px;
-    width: 900px;
-    height: 700px;
-    opacity: 0.8;
-    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
 }
 
 .list {

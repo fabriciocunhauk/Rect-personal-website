@@ -1,6 +1,6 @@
 import React from 'react';
 import '../src/assets/styles/global.css';
-import MainLayout from './MainLayout/index';
+import MainLayout from './pages/Main';
 
 
 function App() {

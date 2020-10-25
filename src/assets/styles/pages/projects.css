@@ -1,0 +1,25 @@
+.main-container {
+  margin: 50px auto;
+}
+
+.card-container {
+    margin: 60px auto;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#card-style { 
+  width: 370px; 
+  height: 320px;
+  box-shadow: 10px 20px 20px 0 rgba(0,0,0,.4);
+  transition: all .4s ease;
+}
+
+#card-style:hover {
+  transform: translate3D(0, -2px, 0) scale(1.09);
+}
