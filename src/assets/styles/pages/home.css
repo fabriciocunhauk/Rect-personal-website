@@ -1,0 +1,45 @@
+.home-container {
+  margin: 50px auto;
+}
+
+.home__content {
+ display: block;
+ text-align: center;
+ padding: 20px;
+}
+
+.home__content img {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+
+.banner-box {
+    margin: 50px auto;
+    background-color: black;
+    opacity: .8;
+    width: 75%;
+    height: 30%;
+    border-radius: 1rem;
+}
+
+.banner-box h1 {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: white;
+}
+
+.banner-box hr {
+    border-top: 5px dotted white;
+    width: 70%;
+    margin: 30px auto;
+}
+
+.banner-box p {
+    margin-bottom: 0em;
+    color: white;
+    font-size: 20px;
+    padding: 1em;
+    text-align: center;
+}
