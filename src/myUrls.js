@@ -11,7 +11,7 @@ const projectUrls = [
         id: 2,
         name: "Interflix",
         imgURL:
-            "https://media-exp1.licdn.com/dms/image/C4D22AQHyFVjgWw5yrQ/feedshare-shrink_800-alternative/0?e=1602115200&v=beta&t=gbP0sYL4LdYS81kWW49hCGwUUWcdoVzCw5gnDLdlJB8",
+            "https://github.com/fabriciocunhauk/React.js-interflix/raw/master/src/assets/imagens/Front-photo.PNG",
         link: "https://react-js-interflix.vercel.app/",
         Website: "https://react-js-interflix.vercel.app/"
     },
