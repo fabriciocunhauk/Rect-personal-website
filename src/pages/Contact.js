@@ -1,9 +1,9 @@
 import React from 'react';
 import { List, ListItem, ListItemContent } from 'react-mdl';
-
-import '../assets/styles/pages/contact.css'
 import BgWraperContainer from '../components/BgWraperContainer';
 import NavBar from '../components/NavBar';
+
+import '../assets/styles/pages/contact.css'
 
 function Contact() {
     return (
@@ -21,7 +21,7 @@ function Contact() {
                                     <ListItemContent style={{ color: "white", paddingBottom: "20px" }} avatar="person">Fabricio Cunha</ListItemContent>
                                 </ListItem>
                                 <ListItem>
-                                    <ListItemContent style={{ color: "white", paddingBottom: "20px" }} icon="phone">+447453155169</ListItemContent>
+                                    <ListItemContent style={{ paddingBottom: "20px" }} icon="phone"><a href="tel:+447453155169" style={{ textDecoration: "none", color: "white" }}>+447453155169</a></ListItemContent>
                                 </ListItem>
                                 <ListItem>
                                     <a href="mailto: fabriciocunhadeveloper@gmail.com" style={{ textDecoration: "none" }}>

@@ -1,3 +1,9 @@
 .main-layout { 
     background: url(https://images.techhive.com/images/article/2017/02/16258492451_3a097a932a_k-100707389-large.jpg) center / cover;    
 }
+
+.main-layout .header-color {
+    background: #8A2387; 
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+}

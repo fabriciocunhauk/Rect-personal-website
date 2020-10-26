@@ -1,6 +1,9 @@
+.contact-info {
+   margin: 70px auto;
+}
+
 .content-info h1 {
-    display: flex;
-    justify-content: center;
+    text-align: center;
     color: white;
 }
 
@@ -8,13 +11,6 @@
     border-top: 5px dotted white;
     width: 80%;
     margin: auto;
-}
-
-
-.contact-info {
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
 }
 
 .list {
@@ -30,8 +26,12 @@
     padding-right: 11%;
  }
 
+ .social-links .icon-increase {
+    transition: all .2s ease;
+ }
+
  .social-links .icon-increase:hover {
-     transform: translate3d(0, -2px, 0) scale(1.03);     
+     transform: translate3d(0, -2px, 0) scale(1.09);     
  }
  
  .social-links i {

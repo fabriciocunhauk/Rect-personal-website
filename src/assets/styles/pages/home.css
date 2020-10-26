@@ -1,17 +1,24 @@
 .home-container {
-  margin: 50px auto;
+  margin: 70px auto;
 }
 
 .home__content {
  display: block;
  text-align: center;
- padding: 20px;
 }
 
 .home__content img {
     height: 350px;
     width: 350px;
     border-radius: 50%;
+}
+
+@media (max-width: 375px) {
+    .home__content img {
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
 }
 
 .banner-box {
@@ -21,6 +28,12 @@
     width: 75%;
     height: 30%;
     border-radius: 1rem;
+}
+
+@media (max-width: 375px) {
+    .banner-box {
+        width: 95%;
+    }
 }
 
 .banner-box h1 {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardTitle, CardActions, CardText, Button } from 'react-mdl';
-import myUrls from '../myUrls'
+import myUrls from '../myUrls';
 import '../assets/styles/pages/projects.css';
 import BgWraperContainer from '../components/BgWraperContainer';
 import NavBar from '../components/NavBar';
