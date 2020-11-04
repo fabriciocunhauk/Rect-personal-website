@@ -21,11 +21,15 @@ function Contact() {
                                     <ListItemContent style={{ color: "white", paddingBottom: "20px" }} avatar="person">Fabricio Cunha</ListItemContent>
                                 </ListItem>
                                 <ListItem>
-                                    <ListItemContent style={{ paddingBottom: "20px" }} icon="phone"><a href="tel:+447453155169" style={{ textDecoration: "none", color: "white" }}>+447453155169</a></ListItemContent>
+                                    <ListItemContent style={{ paddingBottom: "20px" }} icon="phone">
+                                        <a href="tel:+447453155169" style={{ textDecoration: "none", color: "white" }}>+447453155169</a>
+                                    </ListItemContent>
                                 </ListItem>
                                 <ListItem>
                                     <a href="mailto: fabriciocunhadeveloper@gmail.com" style={{ textDecoration: "none" }}>
-                                        <ListItemContent style={{ color: "white", paddingBottom: "20px" }} icon="email">fabriciocunhadeveloper@gmail.com</ListItemContent>
+                                        <ListItemContent style={{ color: "white", paddingBottom: "20px" }} icon="email">
+                                            fabriciocunhadeveloper@gmail.com
+                                        </ListItemContent>
                                     </a>
                                 </ListItem>
                                 <ListItem>

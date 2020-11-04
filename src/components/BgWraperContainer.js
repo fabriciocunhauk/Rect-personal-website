@@ -3,7 +3,7 @@ import '../assets/styles/components/bg-wraper-container.css';
 
 function BgWraperContainer({ children }) {
     return (
-        <div className="contact-details">
+        <div className="bg-container">
             {children}
         </div>
     );

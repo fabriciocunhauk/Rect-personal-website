@@ -1,4 +1,4 @@
-.contact-details {
+.bg-container {
     margin: auto;
     padding: 20px;
     width: 90%;
@@ -6,7 +6,7 @@
     position: relative;
 }
 
-.contact-details::before {
+.bg-container::before {
 content: ' ';
 position: absolute;
 border-radius: 8px;
