@@ -14,8 +14,30 @@
 }
 
 .list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-top: 70px;
 }
+
+.cv-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 100px;
+    border-radius: 8px;
+    box-shadow: 1px 4px 15px black;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+}
+
+.cv-button:hover {
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+    color: white;
+} 
 
 .social-links {
     display: flex;

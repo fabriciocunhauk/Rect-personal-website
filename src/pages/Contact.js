@@ -1,5 +1,6 @@
 import React from 'react';
 import { List, ListItem, ListItemContent } from 'react-mdl';
+// import { Link } from 'react-router-dom';
 import BgWraperContainer from '../components/BgWraperContainer';
 import NavBar from '../components/NavBar';
 
@@ -35,6 +36,7 @@ function Contact() {
                                 <ListItem>
                                     <ListItemContent style={{ color: "white", paddingBottom: "20px" }} icon="place">London</ListItemContent>
                                 </ListItem>
+                                {/* <Link to="../assets/cv/Resume_01_Fabricio_Cunha.docx" className="cv-button" target="_blank" download="Fabricio Cunha CV">Download CV</Link> */}
                             </List>
                         </div>
 
