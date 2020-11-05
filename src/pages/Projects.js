@@ -17,8 +17,14 @@ function createCard(myUrls) {
                     {myUrls.name}
                 </CardText>
                 <CardActions border>
-                    <Button colored href={myUrls.link} target="_blank"><FaChrome size={30} color="black" /></Button>
-                    <Button colored href={myUrls.github} target="_blank"><FaGithub size={30} color="black" /></Button>
+                    {myUrls.link
+                        ? (<div>
+                            <Button colored href={myUrls.link} target="_blank"><FaChrome size={30} color="black" /></Button>
+                            <Button colored href={myUrls.github} target="_blank"><FaGithub size={30} color="black" /></Button>
+                        </div>
+
+                        ) : <Button colored href={myUrls.github} target="_blank"><FaGithub size={30} color="black" /></Button>
+                    }
                 </CardActions>
             </Card>
         </div>
