@@ -24,9 +24,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto auto;
     text-decoration: none;
     font-weight: bold;
-    margin-right: 100px;
     border-radius: 8px;
     box-shadow: 1px 4px 15px black;
     width: 150px;
@@ -43,11 +43,9 @@
 
 .social-links {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     margin-top: 70px;
-    padding-left: 8%;
-    padding-right: 11%;
  }
 
  .social-links .icon-increase {
@@ -61,5 +59,4 @@
  .social-links i {
      color: white;
      font-size: 3em;
-     padding: 50%;
  }
