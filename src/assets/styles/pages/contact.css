@@ -29,12 +29,14 @@
     margin-right: 100px;
     border-radius: 8px;
     box-shadow: 1px 4px 15px black;
-    width: 120px;
+    width: 150px;
     height: 40px;
-    background-color: white;
+    background-color: #DCDCDC;
+    transition: all .3s;
 }
 
 .cv-button:hover {
+    transform: translate3d(0, -2px, 0) scale(1.05); 
     background: linear-gradient(to right, #F27121, #E94057, #8A2387);
     color: white;
 } 
