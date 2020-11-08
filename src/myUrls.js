@@ -68,6 +68,20 @@ const projectUrls = [
         imgURL:
             "https://github.com/fabriciocunhauk/React-Native-Restaurant-Search-App/raw/master/images/Capture.PNG?raw=true",
         github: "https://github.com/fabriciocunhauk/React-Native-Restaurant-Search-App"
+    },
+    {
+        id: 10,
+        name: "Happy",
+        imgURL:
+            "https://github.com/rocketseat-education/nlw-03-omnistack/raw/master/.github/happy.png",
+        github: "https://github.com/fabriciocunhauk/happy"
+    },
+    {
+        id: 11,
+        name: "Google-glass",
+        imgURL:
+            "https://repository-images.githubusercontent.com/248870497/40e30100-7aa6-11ea-9252-0a5de5bbcae4",
+        github: "https://github.com/fabriciocunhauk/projeto-glass"
     }
 ]
 
