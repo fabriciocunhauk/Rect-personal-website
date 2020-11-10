@@ -20,22 +20,22 @@ function Contact() {
                         <div className="list">
                             <List>
                                 <ListItem>
-                                    <ListItemContent style={{ color: "white", paddingBottom: "20px" }} avatar="person">Fabricio Cunha</ListItemContent>
+                                    <ListItemContent style={{ color: "black", fontWeight: "bold", paddingBottom: "20px", fontSize: "20px" }}><i className="fa fa-user my-icon" arial-hidden="true" />  Fabricio Cunha</ListItemContent>
                                 </ListItem>
                                 <ListItem>
-                                    <ListItemContent style={{ paddingBottom: "20px" }} icon="phone">
-                                        <a href="tel:+447453155169" style={{ textDecoration: "none", color: "white" }}>+447453155169</a>
+                                    <ListItemContent style={{ paddingBottom: "20px", fontSize: "20px" }}>
+                                        <a href="tel:+447453155169" style={{ textDecoration: "none", color: "black", fontWeight: "bold", }}><i className="fa fa-phone my-icon" arial-hidden="true" />  +447453155169</a>
                                     </ListItemContent>
                                 </ListItem>
                                 <ListItem>
                                     <a href="mailto: fabriciocunhadeveloper@gmail.com" style={{ textDecoration: "none" }}>
-                                        <ListItemContent style={{ color: "white", paddingBottom: "20px" }} icon="email">
-                                            fabriciocunhadeveloper@gmail.com
+                                        <ListItemContent style={{ color: "black", fontWeight: "bold", paddingBottom: "20px", fontSize: "20px" }}>
+                                            <i className="fa fa-envelope my-icon" arial-hidden="true" />  fabriciocunhadeveloper@gmail.com
                                         </ListItemContent>
                                     </a>
                                 </ListItem>
                                 <ListItem>
-                                    <ListItemContent style={{ color: "white", paddingBottom: "20px" }} icon="place">London</ListItemContent>
+                                    <ListItemContent style={{ color: "black", fontWeight: "bold", paddingBottom: "20px", fontSize: "20px" }}><i className="fa fa-location-arrow my-icon" arial-hidden="true" />  London</ListItemContent>
                                 </ListItem>
                                 <a href={myCv} className="cv-button" target="_blank" rel="noopener noreferrer" download="Fabricio-Cunha-CV.docx">Download CV</a>
                             </List>

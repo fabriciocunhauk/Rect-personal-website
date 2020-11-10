@@ -6,8 +6,8 @@ import '../assets/styles/components/nav-bar.css';
 
 function NavBar({ children }) {
     return (
-        <Layout className="main-layout">
-            <Header className="header-color" title={<span><strong>Fabricio Cunha</strong></span>}>
+        <Layout>
+            <Header className="header-color" title={<Link to="/Rect-personal-website" style={{ textDecoration: "none", color: "black", fontWeight: "bold" }}>Fabricio Cunha</Link>}>
                 <Navigation>
                     <Link to="/Rect-personal-website">Home</Link>
                     <Link to="/projects">Projects</Link>
