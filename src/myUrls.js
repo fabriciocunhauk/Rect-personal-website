@@ -44,7 +44,7 @@ const projectUrls = [
         id: 6,
         name: "React-Portfolio",
         imgURL:
-            "https://github.com/fabriciocunhauk/Rect-personal-website/raw/master/src/assets/images/Portifolio%20website.PNG",
+            "https://github.com/fabriciocunhauk/Rect-personal-website/raw/master/src/assets/images/My%20profile%20new%20layout.PNG",
         link: "https://fabriciocunhauk.github.io/Rect-personal-website/",
         github: "https://github.com/fabriciocunhauk/Rect-personal-website"
     },
