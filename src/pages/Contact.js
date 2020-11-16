@@ -20,22 +20,22 @@ function Contact() {
                         <div className="list">
                             <List>
                                 <ListItem>
-                                    <ListItemContent style={{ color: "black", fontWeight: "bold", paddingBottom: "20px", fontSize: "20px" }}><i className="fa fa-user my-icon" arial-hidden="true" />  Fabricio Cunha</ListItemContent>
+                                    <ListItemContent className="list-item-content"><i className="fa fa-user my-icon" arial-hidden="true" />  Fabricio Cunha</ListItemContent>
                                 </ListItem>
                                 <ListItem>
-                                    <ListItemContent style={{ paddingBottom: "20px", fontSize: "20px" }}>
+                                    <ListItemContent className="list-item-content">
                                         <a href="tel:+447453155169" style={{ textDecoration: "none", color: "black", fontWeight: "bold", }}><i className="fa fa-phone my-icon" arial-hidden="true" />  +447453155169</a>
                                     </ListItemContent>
                                 </ListItem>
                                 <ListItem>
                                     <a href="mailto: fabriciocunhadeveloper@gmail.com" style={{ textDecoration: "none" }}>
-                                        <ListItemContent style={{ color: "black", fontWeight: "bold", paddingBottom: "20px", fontSize: "20px" }}>
+                                        <ListItemContent className="list-item-content">
                                             <i className="fa fa-envelope my-icon" arial-hidden="true" />  fabriciocunhadeveloper@gmail.com
                                         </ListItemContent>
                                     </a>
                                 </ListItem>
                                 <ListItem>
-                                    <ListItemContent style={{ color: "black", fontWeight: "bold", paddingBottom: "20px", fontSize: "20px" }}><i className="fa fa-location-arrow my-icon" arial-hidden="true" />  London</ListItemContent>
+                                    <ListItemContent className="list-item-content"><i className="fa fa-location-arrow my-icon" arial-hidden="true" />  London</ListItemContent>
                                 </ListItem>
                                 <a href={myCv} className="cv-button" target="_blank" rel="noopener noreferrer" download="Fabricio-Cunha-CV.docx">Download CV</a>
                             </List>

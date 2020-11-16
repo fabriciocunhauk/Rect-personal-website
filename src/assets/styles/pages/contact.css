@@ -20,6 +20,20 @@
     margin-top: 70px;
 }
 
+.list-item-content {
+    color: black; 
+    font-weight: bold; 
+    padding-bottom: 20px; 
+    font-size: 20px; 
+    font-size: 20px;
+}
+
+@media (max-width: 375px) {
+    .list-item-content {
+        font-size: 16px;
+    }
+}
+
 .my-icon {
     font-size: 30px;
 }
