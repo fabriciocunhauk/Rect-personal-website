@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rect-personal-website/static/css/main.2fa9dbc5.chunk.css",
-    "main.js": "/Rect-personal-website/static/js/main.d9828d34.chunk.js",
-    "main.js.map": "/Rect-personal-website/static/js/main.d9828d34.chunk.js.map",
+    "main.css": "/Rect-personal-website/static/css/main.7c54bbb8.chunk.css",
+    "main.js": "/Rect-personal-website/static/js/main.8c0c9dd1.chunk.js",
+    "main.js.map": "/Rect-personal-website/static/js/main.8c0c9dd1.chunk.js.map",
     "runtime-main.js": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js",
     "runtime-main.js.map": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js.map",
     "static/css/2.cd1c2086.chunk.css": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css",
     "static/js/2.68ebec40.chunk.js": "/Rect-personal-website/static/js/2.68ebec40.chunk.js",
     "static/js/2.68ebec40.chunk.js.map": "/Rect-personal-website/static/js/2.68ebec40.chunk.js.map",
     "index.html": "/Rect-personal-website/index.html",
-    "precache-manifest.a90967312f608f9c359d25cc9a2986f5.js": "/Rect-personal-website/precache-manifest.a90967312f608f9c359d25cc9a2986f5.js",
+    "precache-manifest.260c0bff2ae01b458648097d847266f8.js": "/Rect-personal-website/precache-manifest.260c0bff2ae01b458648097d847266f8.js",
     "service-worker.js": "/Rect-personal-website/service-worker.js",
     "static/css/2.cd1c2086.chunk.css.map": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css.map",
-    "static/css/main.2fa9dbc5.chunk.css.map": "/Rect-personal-website/static/css/main.2fa9dbc5.chunk.css.map",
+    "static/css/main.7c54bbb8.chunk.css.map": "/Rect-personal-website/static/css/main.7c54bbb8.chunk.css.map",
     "static/js/2.68ebec40.chunk.js.LICENSE.txt": "/Rect-personal-website/static/js/2.68ebec40.chunk.js.LICENSE.txt",
     "static/media/Resume_01_Fabricio_Cunha.docx": "/Rect-personal-website/static/media/Resume_01_Fabricio_Cunha.e3f1a925.docx",
     "static/media/global.css": "/Rect-personal-website/static/media/pexels-josh-sorenson-1714208.94fd9e5a.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.8b99cbaa.js",
     "static/css/2.cd1c2086.chunk.css",
     "static/js/2.68ebec40.chunk.js",
-    "static/css/main.2fa9dbc5.chunk.css",
-    "static/js/main.d9828d34.chunk.js"
+    "static/css/main.7c54bbb8.chunk.css",
+    "static/js/main.8c0c9dd1.chunk.js"
   ]
 }
