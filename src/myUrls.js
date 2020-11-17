@@ -3,7 +3,7 @@ const projectUrls = [
         id: 1,
         name: "Kyuuby",
         imgURL:
-            "https://github.com/fabriciocunhauk/Kyuuby-Action-Figure-Website/raw/master/images/Capture.PNG?raw=true",
+            "https://github.com/fabriciocunhauk/Kyuuby-Action-Figure-Website/raw/master/images/kyuubi%20update%2007-11-2020.PNG",
         link: "https://fabriciocunhauk.github.io/Kyuuby-Action-Figure-Website/",
         github: "https://github.com/fabriciocunhauk/Kyuuby-Action-Figure-Website"
 
