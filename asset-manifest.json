@@ -1,27 +1,37 @@
 {
   "files": {
-    "main.css": "/Rect-personal-website/static/css/main.7c54bbb8.chunk.css",
-    "main.js": "/Rect-personal-website/static/js/main.d1e76be1.chunk.js",
-    "main.js.map": "/Rect-personal-website/static/js/main.d1e76be1.chunk.js.map",
+    "main.css": "/Rect-personal-website/static/css/main.79d94a80.chunk.css",
+    "main.js": "/Rect-personal-website/static/js/main.2f2f224b.chunk.js",
+    "main.js.map": "/Rect-personal-website/static/js/main.2f2f224b.chunk.js.map",
     "runtime-main.js": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js",
     "runtime-main.js.map": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js.map",
     "static/css/2.cd1c2086.chunk.css": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css",
-    "static/js/2.68ebec40.chunk.js": "/Rect-personal-website/static/js/2.68ebec40.chunk.js",
-    "static/js/2.68ebec40.chunk.js.map": "/Rect-personal-website/static/js/2.68ebec40.chunk.js.map",
+    "static/js/2.419f9a77.chunk.js": "/Rect-personal-website/static/js/2.419f9a77.chunk.js",
+    "static/js/2.419f9a77.chunk.js.map": "/Rect-personal-website/static/js/2.419f9a77.chunk.js.map",
     "index.html": "/Rect-personal-website/index.html",
-    "precache-manifest.5ed3db79136edc256731e90bada0ac43.js": "/Rect-personal-website/precache-manifest.5ed3db79136edc256731e90bada0ac43.js",
+    "precache-manifest.f9406546540db03a3d4f411396dca401.js": "/Rect-personal-website/precache-manifest.f9406546540db03a3d4f411396dca401.js",
     "service-worker.js": "/Rect-personal-website/service-worker.js",
     "static/css/2.cd1c2086.chunk.css.map": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css.map",
-    "static/css/main.7c54bbb8.chunk.css.map": "/Rect-personal-website/static/css/main.7c54bbb8.chunk.css.map",
-    "static/js/2.68ebec40.chunk.js.LICENSE.txt": "/Rect-personal-website/static/js/2.68ebec40.chunk.js.LICENSE.txt",
-    "static/media/Resume_01_Fabricio_Cunha.docx": "/Rect-personal-website/static/media/Resume_01_Fabricio_Cunha.e3f1a925.docx",
-    "static/media/global.css": "/Rect-personal-website/static/media/pexels-josh-sorenson-1714208.94fd9e5a.jpg"
+    "static/css/main.79d94a80.chunk.css.map": "/Rect-personal-website/static/css/main.79d94a80.chunk.css.map",
+    "static/js/2.419f9a77.chunk.js.LICENSE.txt": "/Rect-personal-website/static/js/2.419f9a77.chunk.js.LICENSE.txt",
+    "static/media/Resume_02_Fabricio_Cunha.pdf": "/Rect-personal-website/static/media/Resume_02_Fabricio_Cunha.bdbfc311.pdf",
+    "static/media/css3.svg": "/Rect-personal-website/static/media/css3.6971ddc7.svg",
+    "static/media/git.svg": "/Rect-personal-website/static/media/git.43d302c6.svg",
+    "static/media/github-octocat.svg": "/Rect-personal-website/static/media/github-octocat.d617763f.svg",
+    "static/media/html5.svg": "/Rect-personal-website/static/media/html5.f0361c5e.svg",
+    "static/media/javascript-4.svg": "/Rect-personal-website/static/media/javascript-4.7fd50466.svg",
+    "static/media/mongodb.svg": "/Rect-personal-website/static/media/mongodb.2985235d.svg",
+    "static/media/mysql.svg": "/Rect-personal-website/static/media/mysql.f80a91ba.svg",
+    "static/media/node-js-logo.svg": "/Rect-personal-website/static/media/node-js-logo.14051f0d.svg",
+    "static/media/global.css": "/Rect-personal-website/static/media/pexels-josh-sorenson-1714208.94fd9e5a.jpg",
+    "static/media/postgresql.svg": "/Rect-personal-website/static/media/postgresql.d7c985e7.svg",
+    "static/media/react-1.svg": "/Rect-personal-website/static/media/react-1.876a8325.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8b99cbaa.js",
     "static/css/2.cd1c2086.chunk.css",
-    "static/js/2.68ebec40.chunk.js",
-    "static/css/main.7c54bbb8.chunk.css",
-    "static/js/main.d1e76be1.chunk.js"
+    "static/js/2.419f9a77.chunk.js",
+    "static/css/main.79d94a80.chunk.css",
+    "static/js/main.2f2f224b.chunk.js"
   ]
 }
