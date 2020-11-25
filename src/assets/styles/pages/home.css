@@ -18,7 +18,7 @@
     border-radius: 50%;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .home__content img {
         height: 150px;
         width: 150px;
@@ -35,7 +35,7 @@
     border-radius: 1rem;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .banner-box {
         width: 100%;
         margin-right: 5px;
