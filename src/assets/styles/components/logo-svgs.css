@@ -1,0 +1,17 @@
+.home__content .logo {
+    margin-top: 40px;
+    margin-right: 20px;
+    height: 120px;
+    width: 120px;
+    border-radius: 20%;
+}
+
+@media (max-width: 375px) {
+    .home__content .logo {
+        margin-top: 20px;
+        margin-right: 20px;
+        height: 70px;
+        width: 70px;
+        border-radius: 20%;
+    }
+}

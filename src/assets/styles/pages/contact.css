@@ -1,5 +1,14 @@
 .contact-info {
-   margin: 70px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+@media (max-width: 375px) {
+    .content-info {
+        width: 300px;
+    }
 }
 
 .content-info h1 {
@@ -30,7 +39,7 @@
 
 @media (max-width: 375px) {
     .list-item-content {
-        font-size: 16px;
+        font-size: 12px;
     }
 }
 
@@ -62,10 +71,17 @@
 
 .social-links {
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
+    justify-content: space-between;
+    width: 1000px;
     margin-top: 70px;
  }
+
+ @media (max-width: 375px) {
+    .social-links {
+        width: 300px;
+    }
+}
 
  .social-links .icon-increase {
     transition: all .2s ease;

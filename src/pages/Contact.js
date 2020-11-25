@@ -3,7 +3,7 @@ import { List, ListItem, ListItemContent } from 'react-mdl';
 
 import BgWraperContainer from '../components/BgWraperContainer';
 import NavBar from '../components/NavBar';
-import myCv from "../assets/Download-file/Resume_01_Fabricio_Cunha.docx";
+import myCv from "../assets/Download-file/Resume_02_Fabricio_Cunha.pdf";
 
 import '../assets/styles/pages/contact.css'
 
@@ -37,7 +37,7 @@ function Contact() {
                                 <ListItem>
                                     <ListItemContent className="list-item-content"><i className="fa fa-location-arrow my-icon" arial-hidden="true" />  London</ListItemContent>
                                 </ListItem>
-                                <a href={myCv} className="cv-button" target="_blank" rel="noopener noreferrer" download="Fabricio-Cunha-CV.docx">Download CV</a>
+                                <a href={myCv} className="cv-button" target="_blank" rel="noopener noreferrer" download="Fabricio-Cunha-CV.pdf">Download CV</a>
                             </List>
                         </div>
 

@@ -1,9 +1,14 @@
 .home-container {
+    display: flex;
+    align-items: center;
   margin: 70px auto;
 }
 
 .home__content {
- display: block;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-wrap: wrap;
  text-align: center;
 }
 
@@ -15,8 +20,8 @@
 
 @media (max-width: 375px) {
     .home__content img {
-        height: 250px;
-        width: 250px;
+        height: 150px;
+        width: 150px;
         border-radius: 50%;
     }
 }
@@ -32,13 +37,14 @@
 
 @media (max-width: 375px) {
     .banner-box {
-        width: 95%;
+        width: 100%;
+        margin-right: 5px;
     }
 }
 
 .banner-box h1 {
     text-align: center;
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: bold;
     color: white;
 }
