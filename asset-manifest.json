@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rect-personal-website/static/css/main.ed93b895.chunk.css",
-    "main.js": "/Rect-personal-website/static/js/main.2f2f224b.chunk.js",
-    "main.js.map": "/Rect-personal-website/static/js/main.2f2f224b.chunk.js.map",
+    "main.css": "/Rect-personal-website/static/css/main.00df2254.chunk.css",
+    "main.js": "/Rect-personal-website/static/js/main.76531691.chunk.js",
+    "main.js.map": "/Rect-personal-website/static/js/main.76531691.chunk.js.map",
     "runtime-main.js": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js",
     "runtime-main.js.map": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js.map",
     "static/css/2.cd1c2086.chunk.css": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css",
     "static/js/2.419f9a77.chunk.js": "/Rect-personal-website/static/js/2.419f9a77.chunk.js",
     "static/js/2.419f9a77.chunk.js.map": "/Rect-personal-website/static/js/2.419f9a77.chunk.js.map",
     "index.html": "/Rect-personal-website/index.html",
-    "precache-manifest.5a67e9c995166b782c23ee623c44a56c.js": "/Rect-personal-website/precache-manifest.5a67e9c995166b782c23ee623c44a56c.js",
+    "precache-manifest.b4f84db48628a0a7b1fbfb0eaf09b8e6.js": "/Rect-personal-website/precache-manifest.b4f84db48628a0a7b1fbfb0eaf09b8e6.js",
     "service-worker.js": "/Rect-personal-website/service-worker.js",
     "static/css/2.cd1c2086.chunk.css.map": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css.map",
-    "static/css/main.ed93b895.chunk.css.map": "/Rect-personal-website/static/css/main.ed93b895.chunk.css.map",
+    "static/css/main.00df2254.chunk.css.map": "/Rect-personal-website/static/css/main.00df2254.chunk.css.map",
     "static/js/2.419f9a77.chunk.js.LICENSE.txt": "/Rect-personal-website/static/js/2.419f9a77.chunk.js.LICENSE.txt",
     "static/media/Resume_02_Fabricio_Cunha.pdf": "/Rect-personal-website/static/media/Resume_02_Fabricio_Cunha.bdbfc311.pdf",
     "static/media/css3.svg": "/Rect-personal-website/static/media/css3.6971ddc7.svg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.8b99cbaa.js",
     "static/css/2.cd1c2086.chunk.css",
     "static/js/2.419f9a77.chunk.js",
-    "static/css/main.ed93b895.chunk.css",
-    "static/js/main.2f2f224b.chunk.js"
+    "static/css/main.00df2254.chunk.css",
+    "static/js/main.76531691.chunk.js"
   ]
 }
