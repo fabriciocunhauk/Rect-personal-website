@@ -10,8 +10,8 @@ import '../assets/styles/pages/projects.css';
 
 function createCard(myUrls) {
     return (
-        <div className="card-container">
-            <Card key={myUrls.id} shadow={0} id="card-style">
+        <div className="card-container" key={myUrls.id}>
+            <Card shadow={0} id="card-style">
                 <CardTitle expand style={{ color: '#fff', background: `url(${myUrls.imgURL}) center / contain`, backgroundRepeat: "no-repeat" }}></CardTitle>
                 <CardText style={{ fontWeight: "bold" }}>
                     {myUrls.name}

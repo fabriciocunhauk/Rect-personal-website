@@ -16,16 +16,16 @@ import '../assets/styles/components/logo-svgs.css'
 function LogoSvgs() {
     return (
         <div className="home__content">
-            <img className="logo" src={javascriptSvg} alt="javascript" />
-            <img className="logo" src={htmlSvg} alt="html" />
-            <img className="logo" src={csstSvg} alt="css" />
-            <img className="logo" src={reactSvg} alt="react" />
-            <img className="logo" src={nodeSvg} alt="node" />
-            <img className="logo" src={mongoDbSvg} alt="mongoDb" />
-            <img className="logo" src={gitHubSvg} alt="github" />
-            <img className="logo" src={gitSvg} alt="git" />
-            <img className="logo" src={mySqlSvg} alt="mysql" />
-            <img className="logo" src={postgresSvg} alt="postgtres" />
+            <a href="https://www.javascript.com/" rel="noopener noreferrer" target="_blank"><img className="logo" src={javascriptSvg} alt="javascript" /></a>
+            <a href="https://www.w3schools.com/html/" rel="noopener noreferrer" target="_blank"><img className="logo" src={htmlSvg} alt="html" /></a>
+            <a href="https://www.w3schools.com/css/default.asp" rel="noopener noreferrer" target="_blank"><img className="logo" src={csstSvg} alt="css" /></a>
+            <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank"><img className="logo" src={reactSvg} alt="react" /></a>
+            <a href="https://nodejs.org/en/" rel="noopener noreferrer" target="_blank"><img className="logo" src={nodeSvg} alt="node" /></a>
+            <a href="https://www.mongodb.com/cloud/atlas" rel="noopener noreferrer" target="_blank"><img className="logo" src={mongoDbSvg} alt="mongoDb" /></a>
+            <a href="https://github.com/" rel="noopener noreferrer" target="_blank"><img className="logo" src={gitHubSvg} alt="github" /></a>
+            <a href="https://git-scm.com/" rel="noopener noreferrer" target="_blank"><img className="logo" src={gitSvg} alt="git" /></a>
+            <a href="https://www.mysql.com/" rel="noopener noreferrer" target="_blank"><img className="logo" src={mySqlSvg} alt="mysql" /></a>
+            <a href="https://www.postgresql.org/" rel="noopener noreferrer" target="_blank"><img className="logo" src={postgresSvg} alt="postgtres" /></a>
         </div>
     )
 }

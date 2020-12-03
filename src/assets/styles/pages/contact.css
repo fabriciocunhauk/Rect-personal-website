@@ -65,7 +65,7 @@
 
 .cv-button:hover {
     transform: translate3d(0, -2px, 0) scale(1.05); 
-    background: #07689f;
+    background: linear-gradient(to right, #a2d5f2, #40a8c4, #07689f);;
     color: white;
 } 
 
