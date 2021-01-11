@@ -3,8 +3,10 @@
     margin-right: 30px;
     height: 120px;
     width: 120px;
+    padding: 10px;
     border-radius: 20%;
-    transition: .3s;
+    transition: .5s ease;
+    box-shadow: 7px 15px 20px 0 rgba(0,0,0,.4);
 }
 
 .home__content .logo:hover {

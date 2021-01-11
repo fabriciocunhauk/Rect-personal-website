@@ -9,8 +9,15 @@
     position: relative;
 }
 
+@media (max-width: 700px) {
+    .bg-container {
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+
 .bg-container::before {
-content: ' ';
+content: '';
 position: absolute;
 border-radius: 8px;
 top: 0;

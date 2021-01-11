@@ -1,20 +1,20 @@
 .home-container {
     display: flex;
     align-items: center;
-  margin: 70px auto;
+    margin: 70px auto;
 }
 
 .home__content {
- display: flex;
- align-items: center;
- justify-content: center;
- flex-wrap: wrap;
- text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
 }
 
 .home__content img {
-    height: 350px;
-    width: 350px;
+    height: 260px;
+    width: 260px;
     border-radius: 50%;
 }
 
