@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "338688959e889347a6713f468c765a1f",
+    "revision": "d81e7bcfbd1dd3dfc3368c211b8323f1",
     "url": "/Rect-personal-website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rect-personal-website/static/css/2.cd1c2086.chunk.css"
   },
   {
-    "revision": "9394958901622065f8e9",
+    "revision": "1b21dfc8bc72998c6738",
     "url": "/Rect-personal-website/static/css/main.f2a56216.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rect-personal-website/static/js/2.419f9a77.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9394958901622065f8e9",
-    "url": "/Rect-personal-website/static/js/main.a19a8ba0.chunk.js"
+    "revision": "1b21dfc8bc72998c6738",
+    "url": "/Rect-personal-website/static/js/main.b52e52ec.chunk.js"
   },
   {
     "revision": "766fc4652b2e4aefbebd",
     "url": "/Rect-personal-website/static/js/runtime-main.8b99cbaa.js"
   },
   {
-    "revision": "bdbfc311f23206786d985807199b1b6a",
-    "url": "/Rect-personal-website/static/media/Resume_02_Fabricio_Cunha.bdbfc311.pdf"
+    "revision": "1f51a6707dd9236a345f86988c72019b",
+    "url": "/Rect-personal-website/static/media/Fabricio_Cunha_03.1f51a670.pdf"
   },
   {
     "revision": "6971ddc761cc35ba918be0a69dfbcf50",
