@@ -3,7 +3,7 @@ import { List, ListItem, ListItemContent } from 'react-mdl';
 
 import BgWraperContainer from '../components/BgWraperContainer';
 import NavBar from '../components/NavBar';
-import myCv from "../assets/Download-file/Fabricio_Cunha_03";
+import myCv from "../assets/Download-file/Fabricio_Cunha_03.pdf";
 
 import '../assets/styles/pages/contact.css'
 
