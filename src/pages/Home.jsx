@@ -20,7 +20,7 @@ function Home() {
 
                             <hr />
 
-                            <p>JavaScript | HTML | CSS | SaSS | Node.js | React.Js | React Native | Bootstrap | Git | APIs | REST APIs | Express | SQL | NoSQL | MongoDb/Mongoose </p>
+                            <p>JavaScript | HTML | CSS | SaSS | Styled-components | Node.js | React.Js | Redux | Git | APIs | REST APIs | Express | SQL | NoSQL | MongoDb/Mongoose </p>
                         </div>
                     </div>
                     <LogoSvgs />
